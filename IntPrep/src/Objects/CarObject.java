@@ -6,5 +6,8 @@ public class CarObject {
 
         toyota.stop();
         System.out.println(toyota.color);
+
+        Car nissan = new Car(250);
+
     }
 }
