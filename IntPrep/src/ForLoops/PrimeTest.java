@@ -1,6 +1,4 @@
-package InterviewQuestions;
-
-
+package ForLoops;
 import java.util.Scanner;
 
 public class PrimeTest {
@@ -25,6 +23,5 @@ public class PrimeTest {
         }
         return true;
     }
-
 
 }
