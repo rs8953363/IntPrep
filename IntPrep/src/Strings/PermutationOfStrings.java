@@ -11,7 +11,8 @@ public class PermutationOfStrings {
             System.out.println("Enter a string:");
             String data=input.nextLine();
 
-            System.out.println("Permutations of  + data + ":"\n " + getPermutation(data));
+            System.out.println("Permutations of " + data + ":\n " + getPermutation(data));
+
             input.close();
         }
 
